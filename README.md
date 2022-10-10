@@ -1,4 +1,7 @@
 # Tarea contribucion a lamujer
 En esta tarea hablaremos sobre mujeres que han echo algo muy importante.
 ## Hedy Lamarr
-![image](hedylamar.png)
+![image](HedyLamarr.jpg)
+
+Fue la coinventora del WI-FI
+##Radia Joy Perlman
