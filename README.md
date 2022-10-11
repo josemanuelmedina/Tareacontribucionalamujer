@@ -10,7 +10,9 @@ Fue la coinventora del WI-FI
 Radia Joy Perlman
 
 ![image](radiaperlman.jpeg)
+
 Es la creadora de software e ingeniera de redes
 
 Joan Clarke
-![image]()
+
+![image](joanclark.jpg)
