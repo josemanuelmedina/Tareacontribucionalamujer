@@ -27,4 +27,6 @@ Fue la primera programadora que utilizo el mark1 y desarrollo el primer compilad
 
 Elena García Armada
 
+![image](elenagarcia.jpg)
 
+Creadora de los exoesqueletos
