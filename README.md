@@ -21,4 +21,10 @@ Fue la única mujer que trabajo des encriptando las comunicaciones secretas de l
 
 Grace Murray
 
-![image]()
+![image](gracemurray.jpg)
+
+Fue la primera programadora que utilizo el mark1 y desarrollo el primer compilador para un lenguaje de marcas
+
+Elena García Armada
+
+
