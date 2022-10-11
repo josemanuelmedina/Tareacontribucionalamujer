@@ -9,10 +9,16 @@ Fue la coinventora del WI-FI
 
 Radia Joy Perlman
 
-![image](radiaperlman.jpeg)
+![image](radiaperlman2.jpg)
 
 Es la creadora de software e ingeniera de redes
 
 Joan Clarke
 
 ![image](joanclark.jpg)
+
+Fue la única mujer que trabajo des encriptando las comunicaciones secretas de la Alemania
+
+Grace Murray
+
+![image]()
